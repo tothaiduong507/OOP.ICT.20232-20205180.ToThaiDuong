@@ -1,0 +1,3 @@
+Question 6.1:
+- If users choose "Cancel", the IDE will not save the selected class and it will run the file that was built during the previous session.
+- To modify the options, in specific making it have only 2 options, we can declare an array[] options and parse in the number of options we wanted, 2.
